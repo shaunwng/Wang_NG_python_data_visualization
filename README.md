@@ -7,9 +7,9 @@ This is for Python &amp; Data Visualization - Homework #3.
 All charts and analysis report is based on [ IOC Research and Reference Service and published by The Guardian's Datablog ].
 
 
-##Usage
+## Usage
 Copy repository from Github to preferred project location. You're good to go!
 
 
-##Contributing
+## Contributing
 Feel free to dive in!
