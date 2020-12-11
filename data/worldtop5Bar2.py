@@ -4,8 +4,8 @@ import numpy as np
 
 
 
-name_list = ['FIN','URS','NOR','CAN','USA']
-num_list = [434,440,457,625,653]
+name_list = ['USA','CAN','NOR','URS','FIN']
+num_list = [653,625,457,440,434]
 x = np.array(name_list)
 y = np.array(num_list)
 plt.bar(x,y,width=0.5,align='center',color='c')
