@@ -1,0 +1,255 @@
+*{
+	padding: 0;
+	margin: 0;
+	border: none;
+}
+
+.hidden {
+	display: none;
+}
+
+
+.container{
+	background-size: cover;
+    background-attachment: fixed;
+	background-color: #898989;
+}
+.mainsection{
+	width: 1280px;
+	background-color: white;
+	margin: 0 auto;
+	
+}
+
+.title1{
+	font-size: 40px;
+	font-family: Bodoni72;
+	text-align: center;
+	font-weight: bold;
+
+}
+
+.headerimg{
+	margin-top: 10px;
+	width: 1280px;
+	height: 500px;
+
+}
+
+.OlympicIntro{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	font-family: Bodoni72;
+	font-size: 20px;
+	height: 450px;
+
+
+}
+.OlympicIntro{
+	box-shadow: 5px 10px 10px grey;
+	margin-top: 26px;
+	background-image: linear-gradient(to left top, rgb(30,144,255) 0%, black 15%, red 40%, orange 65%, green 100%);
+
+}
+
+
+.OlympicIntro div{
+	display: inline-block;	
+}
+
+
+
+.winterolympicgame {
+	float: left;
+	width: 300px;
+	height: 500px;
+	margin-left: 80px;
+	text-align: center;
+
+	
+}
+
+
+.sprits {
+	width: 300px;
+	height: 500px;
+	margin-left: 90px;
+	text-align: center;
+	
+}
+
+
+
+.history{
+	text-align: center;
+	width: 300px;
+	height: 500px;
+	margin-left: 90px;
+}
+
+
+
+.argument1{
+	margin-top: 30px;
+	margin-left: 20px;
+}
+	
+
+.argument1 h2{
+	font-size: 30px;
+	text-shadow: 1px 1px 2px grey
+}
+
+.argu1text{
+	font-size: 20px;
+	line-height: 1.5em;
+}
+
+.argu1text h3{
+	font-size:20px;
+	text-align: center;
+	line-height: 1.5em;
+}
+
+.argument2 {
+	margin-top:30px; 
+	margin-left: 20px;
+}
+
+.argu2img{
+	margin-left:130px;
+}
+
+
+
+hr{
+	/*margin:0px;*/
+	height:15px;
+	border:0px;
+	background-color:grey;
+	width:100%;
+	margin-left: auto;
+
+}
+
+.argu2text{
+	font-size: 20px;
+	line-height: 1.5em;
+	
+
+}
+
+.argu2text ul li{margin-left: 20px
+
+}
+.argu2text h3 {
+	margin-top: 20px;
+	text-align: center;
+}
+
+
+.argu2text p{
+	margin-left: 20px;
+}
+
+.argument2 h2{
+	text-shadow: 1px 1px 2px grey;
+	font-size: 30px;
+	}
+
+
+.argument3 {
+
+	margin-top:30px; 
+	margin-left: 20px;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+
+}
+
+
+.argu3text{
+	font-size: 20px;
+	margin-top: 60px;
+	margin-right: 20px;
+
+}
+
+.argu3p1{
+	font-size: 30px;
+}
+
+.argu3p2,.argu3p3 {
+	margin-top: 1.5em;
+}
+
+
+.argu3title{
+	margin-left: 20px;
+	margin-top: 30px;
+	font-size: 30px;
+	text-shadow: 1px 1px 2px grey;
+}
+
+
+.argument4 h2{
+	margin-left: 20px;
+	margin-top: 30px;
+	font-size: 30px;
+	text-shadow: 1px 1px 2px grey;
+}
+
+
+.argu4img{
+	margin-left: 200px;
+	
+}
+
+.argu4img2,.argu4img4{
+	margin-left: 50px;
+}
+
+
+.argu4text{
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+	font-size: 20px;
+	line-height: 1.5em;
+}
+
+.argu4text ul
+{
+	margin-left: 20px;
+
+}
+
+.argument5 h2{
+	margin-left: 20px;
+	margin-top: 30px;
+	font-size: 30px;
+	text-shadow: 1px 1px 2px grey;
+}
+
+.argument5 ul, .argu5text{
+	font-size: 20px;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+
+
+footer {
+	text-align: center;
+	font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
